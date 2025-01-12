@@ -1,0 +1,16 @@
+{
+  "name": "nhlstatsandstandings",
+  "version": "1.0.0",
+  "description": "An application allowing users to track the stats and standings of their favorite NHL teams and players.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
