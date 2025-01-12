@@ -6,18 +6,14 @@
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Troubleshooting](#troubleshooting)
 - [Credits](#credits)
+- [Contribution](#contribution)
 - [License](#license)
 
 ## Installation
 
 <p>This application is designed to be viewed using a web browser, no installation is required.</p> 
-
-## Usage
-
-
 
 ## Troubleshooting/Questions
 <p>Reach out to <a href="mailto:dljohnson1313@gmail.com?subject=README Generator Issue">dljohnson1313@gmail.com</a> with an explanation of the issue if you are unable to find a solution using the steps above.</p>
@@ -25,7 +21,12 @@
 ## Credits
 <p>This project was created by Devyn Johnson. <a href="https://github.com/DevynJohnson">Github</a> | <a href="https://www.linkedin.com/in/devyn-johnson-a5259213b">LinkedIn</a> | <a href="https://devynjohnson.github.io/online-portfolio/">Portfolio</a>.</p>
 
-<p>This application uses API calls found in at <a href="https://github.com/dword4/nhlapi"target="_blank">nhlapi</a> by <a href="https://github.com/dword4"target="_blank">dword4</a>.</p>
+<p>This application uses API calls found in at <a href="https://gitlab.com/dword4/nhlapi"target="_blank">nhlapi</a> by <a href="https://github.com/dword4"target="_blank">dword4</a>.</p>
+
+## Contribution
+
+<p>If you are interested in working on this project, please feel free to fork the repository and submit a PR. If you would like to be credited for your contriubution please email <a href="mailto:dljohnson1313@gmail.com"target="_blank">Devyn Johnson</a> with your information, such as name/username and links to any sites you would like displayed to be added to this document and as a contributer to the Github repository.</p>
+
 
 ## License
 
