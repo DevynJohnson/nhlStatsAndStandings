@@ -21,7 +21,7 @@
 ## Credits
 <p>This project was created by Devyn Johnson. <a href="https://github.com/DevynJohnson">Github</a> | <a href="https://www.linkedin.com/in/devyn-johnson-a5259213b">LinkedIn</a> | <a href="https://devynjohnson.github.io/online-portfolio/">Portfolio</a>.</p>
 
-<p>This application uses API calls found in at <a href="https://gitlab.com/dword4/nhlapi"target="_blank">nhlapi</a> by <a href="https://github.com/dword4"target="_blank">dword4</a>.</p>
+<p>This application uses API calls found at <a href="https://gitlab.com/dword4/nhlapi"target="_blank">nhlapi</a> by <a href="https://github.com/dword4"target="_blank">dword4</a>.</p>
 
 ## Contribution
 
